@@ -15,9 +15,3 @@ npx zenn preview
 ```bash
 npx zenn new:article
 ```
-
-### スクラップの作成
-
-```bash
-npx zenn new:scrap
-```
