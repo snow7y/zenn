@@ -13,7 +13,10 @@
     "donjayamanne.git-extension-pack",
     "yzhang.markdown-all-in-one",
     "taichi.vscode-textlint",
-    "DavidAnson.vscode-markdownlint"
+    "DavidAnson.vscode-markdownlint",
+    "sdras.night-owl",
+    "oderwat.indent-rainbow",
+    "PKief.material-icon-theme"
    ]
   }
  },
