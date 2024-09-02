@@ -16,7 +16,8 @@
     "DavidAnson.vscode-markdownlint",
     "sdras.night-owl",
     "oderwat.indent-rainbow",
-    "PKief.material-icon-theme"
+    "PKief.material-icon-theme",
+    "GitHub.copilot"
    ]
   }
  },
