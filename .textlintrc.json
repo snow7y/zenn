@@ -1,0 +1,13 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "preset-ja-spacing": true,
+    "preset-ja-technical-writing": {
+      "ja-no-successive-word": {
+        "allowOnomatopee": true
+      }
+    },
+    "spellcheck-tech-word": true
+  }
+}

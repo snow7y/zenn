@@ -1,0 +1,6 @@
+{
+  "config": {
+    "no-bare-urls": false,
+    "single-h1": false
+  }
+}
