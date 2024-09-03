@@ -14,4 +14,7 @@ npx zenn preview
 
 ```bash
 npx zenn new:article
+
+# 細かな指定あり
+npx zenn new:article --slug 記事のスラッグ --title タイトル --type tech --emoji ❄️
 ```
