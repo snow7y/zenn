@@ -6,7 +6,8 @@
     "preset-ja-technical-writing": {
       "ja-no-successive-word": {
         "allowOnomatopee": true
-      }
+      },
+      "no-exclamation-question-mark": false
     },
     "spellcheck-tech-word": true
   }
